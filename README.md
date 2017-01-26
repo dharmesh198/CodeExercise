@@ -6,11 +6,11 @@ Code Files:
 
 test directory:
 
-     - FormatNumberTest.php - PHP unit tests to test FormatNumber class
-     - ProcessUrlsTest.php - PHP unit tests to test  MergeQueryString class
+     FormatNumberTest.php - PHP unit tests to test FormatNumber class
+     ProcessUrlsTest.php - PHP unit tests to test  MergeQueryString class
      
 Database_Design directory:
 
-                - ERD.pdf - ER Diagram for cars -> owners -> invoices 
-                - table_columns_indexes.docx - File contains high level database design and information about columns and indexes
-                - create_tables.sql - SQLs to create tables containing all information about tables
+     ERD.pdf - ER Diagram for cars -> owners -> invoices 
+     table_columns_indexes.docx - File contains high level database design and information about columns and indexes
+     create_tables.sql - SQLs to create tables containing all information about tables
